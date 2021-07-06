@@ -27,8 +27,7 @@ I am a fullstack developer from France => Based in Lyon
 <img align="left" alt="redux" src=	"https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img align="left" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-
-
+<span>
 <img align="left" alt="mongodb" src=	"https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="netlify" src=	"https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img align="left" alt="solidity" src="https://img.shields.io/badge/Solidity-404D59?style=for-the-badge" />
