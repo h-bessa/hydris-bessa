@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a fullstack software engineer from France => Based in Lyon
+I am a fullstack developer from France => Based in Lyon
 - 🔭 Working on multiple frontend and backend projects using Javascript, ReactJS and Nodejs
 - 🌌 Working also on some Blockchain projects using solidity and truffle on EVM (Ethereum / Binance / Matic) 
 - 🌱 I’m currently learning Typescript, Solidity and design patterns in depth
