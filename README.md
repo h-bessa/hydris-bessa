@@ -1,6 +1,7 @@
 ### Hello World 👋
-I am a fullstack software engineer from bangladesh
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+I am a fullstack software engineer from France => Based in Lyon
+- 🔭 Working on multiple frontend and backend projects using React, Nodejs.
+- 🌌 Working also on some Blockchain projects using solidity and truffle on EVM (Ethereum / Binance / Matic) 
 - 🌱 Learning design patterns in depth
 <br>
 ## Connect with me
