@@ -31,4 +31,6 @@ I am a fullstack developer from France => Based in Lyon
 <br>
 <img align="left" alt="mongodb" src=	"https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="netlify" src=	"https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img align="left" alt="solidity" src="https://img.shields.io/badge/Solidity-404D59?style=for-the-badge" />
+
 <br>
