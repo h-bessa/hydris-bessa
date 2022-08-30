@@ -1,9 +1,9 @@
 ### Hello World 👋
 I am a fullstack developer from France => Based in Lyon
-- 🔭 Working on multiple frontend and backend projects using Javascript, ReactJS and Nodejs
-- 🌌 Working also on some Blockchain projects using solidity and truffle on EVM (Ethereum / Binance / Matic) 
+- 🔭 Working on multiple frontend and backend projects using Javascript, ReactTS and Nodejs
+- 🌌 Working also on some Blockchain projects using solidity and truffle/Hardat on EVM (Ethereum / Binance / Matic) 
 - 🌱 I’m currently learning Typescript, Solidity and design patterns in depth
-- 🥅 2021 Goal => Mastering web and blockchain development
+- 🥅 2023 Goal => Mastering web ReactTS and blockchain development
 <br>
 
 ## Connect with me 🖐🏼
