@@ -2,9 +2,15 @@
 I am a fullstack developer from France => Based in Lyon
 - 🔭 Working on multiple frontend and backend projects using Javascript, ReactTS and Nodejs
 - 🌌 Working also on some Blockchain projects using solidity and truffle/Hardat on EVM (Ethereum / Binance / Matic) 
-- 🌱 I’m currently learning Typescript, Solidity and design patterns in depth
-- 🥅 2023 Goal => Mastering web ReactTS and blockchain development
+- 🌱 I’m currently working on Typescript, Solidity and design patterns in depth
 <br>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=h-bessa&count_private=true&theme=tokyonight&showicons=true)]()
+
+<br>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=h-bessa&langs_count=5&theme=tokyonight)]()
+
 
 ## Connect with me 🖐🏼
 [<img align="left" alt="dicord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/751350823379795990)
