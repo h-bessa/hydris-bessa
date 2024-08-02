@@ -1,8 +1,12 @@
 ### Hello World 👋
 I am a fullstack developer from France => Based in Lyon
-- 🔭 Working on multiple frontend and backend projects using Javascript, ReactTS and Nodejs
-- 🌌 Working also on some Blockchain projects using solidity and truffle/Hardat on EVM (Ethereum / Binance / Matic) 
-- 🌱 I’m currently working on Typescript, Solidity and design patterns in depth
+- 🔭 Working on multiple frontend and backend projects using JavaScript, React, TypeScript, Node.js, and Python (FastAPI)
+- 🌌 Developing blockchain projects using Solidity, Web3.js, and Truffle/Hardhat on EVM (Ethereum, Binance, Matic), including NFT projects and tokenizing real estate assets
+- 🌱 Currently focusing on Health React, advanced TypeScript, and design patterns
+- 📦 Experienced with modern build tools like Webpack, Vite.js, esbuild, Rollup, Yarn, npm, and Bun
+- 🗃️ Skilled in using MongoDB and PostgreSQL for database management
+- 🚀 Utilizing Git (GitHub/GitLab) for version control following gitflow standards and Docker for application containerization
+- 🧠 Passionate about sharing knowledge through blockchain training sessions
 <br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=h-bessa&count_private=true&theme=tokyonight&showicons=true)]()
