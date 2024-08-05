@@ -7,11 +7,7 @@ I am a fullstack developer from France => Based in Lyon
 - 🗃️ Skilled in using MongoDB and PostgreSQL for database management
 - 🚀 Utilizing Git (GitHub/GitLab) for version control following gitflow standards and Docker for application containerization
 - 🧠 Passionate about sharing knowledge through blockchain training sessions
-<br>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=h-bessa&count_private=true&theme=tokyonight&showicons=true)]()
-
-<br>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=h-bessa&langs_count=5&theme=tokyonight)]()
 
