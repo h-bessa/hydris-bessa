@@ -2,10 +2,10 @@
 I am a fullstack developer from France => Based in Lyon
 - 🔭 Working on multiple frontend and backend projects using JavaScript, React, TypeScript, Node.js, and Python (FastAPI)
 - 🌌 Developing blockchain projects using Solidity, Web3.js, and Truffle/Hardhat on EVM (Ethereum, Binance, Matic), including NFT projects and tokenizing real estate assets
-- 🌱 Currently focusing on Health React, advanced TypeScript, and design patterns
+- 🌱 Currently focusing on React, advanced TypeScript, and design patterns
 - 📦 Experienced with modern build tools like Webpack, Vite.js, esbuild, Rollup, Yarn, npm, and Bun
 - 🗃️ Skilled in using MongoDB and PostgreSQL for database management
-- 🚀 Utilizing Git (GitHub/GitLab) for version control following gitflow standards and Docker for application containerization
+- 🚀 Utilizing Git (GitHub/GitLab/Bitbucket) for version control following gitflow standards and Docker for application containerization
 - 🧠 Passionate about sharing knowledge through blockchain training sessions
 
 
